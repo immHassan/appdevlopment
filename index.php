@@ -6,11 +6,7 @@
     <title>App Development</title>
 </head>
 <body>
-    <h2>
-<?php
-echo "APP DEVELOPMENT.PRO";
-?>
-</h2>
+    <h2>APP Development</h2>
 
 </body>
 </html>
